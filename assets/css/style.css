@@ -1,0 +1,52 @@
+
+.custom-navbar {
+    background-color: #1a2035 !important;  /* Set background color to #1a2035 */
+  }
+.custom-btn{
+  background-color: #1a2035 !important;
+  color: #f8f9fa!important;
+}
+.custom-btn1{
+  color: #1a2035 !important;
+  background-color: #f8f9fa!important;
+  border-color: #1a2035 ;
+}
+.custom-side{
+  color: #1a2035;
+}
+  /* Optional: Change the font color of navbar items to white for contrast */
+  .custom-link {
+    color: #fff !important;  /* Make nav links white */
+  }
+
+  /* Optional: Change the brand logo (EF) text color */
+  .custom-brand {
+    color: #fff !important;  /* Make brand logo white */
+  }
+
+  /* Optional: Change navbar-toggler icon color */
+  .navbar-toggler-icon {
+    color: #fff !important;  /* Make the hamburger icon white */
+  }
+
+  /* Optional: Change the active nav link color */
+  .nav-item.active .nav-link {
+    color: #b9babf!important  /* Highlight active link with gold color */
+  }
+  .custom-btn {
+    color: #fff !important;  /* Set button text color to white */
+    border-color: #fff;  /* Make border white (optional) */
+  }
+
+  .custom-btn:hover {
+    color: #fff;  /* Change background color on hover */
+    background-color: #1a2035;  /* Change text color to dark for better contrast */
+    border-color: #1a2035;  /* Optional: change border on hover */
+  }
+  .card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+  }
+  
+  
